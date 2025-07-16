@@ -1,0 +1,21 @@
+{
+	"id": "ArtTest",
+	"name": "ArtTest",
+	"author": ["Sonfive"],
+	"description": "For testing art",
+	"prefix": "pokeart",
+	"main_file": "main.lua",
+	"priority": 2000000,
+	"badge_colour": "444444",
+	"badge_text_colour": "FFFFFF",
+  "display_name": "Art Test",
+	"version": "1.0.0",
+	"dependencies": [
+			"Steamodded (>=1.0.0~ALPHA-0531a)",
+      "Lovely (>=0.7)",
+      "Pokermon (>=2.9.1)"
+	],
+  "conflicts": [],
+	"provides": [],
+	"dump_loc": false 
+}
