@@ -15,6 +15,10 @@ local testjoker={
   perishable_compat = true,
   blueprint_compat = true,
   eternal_compat = true,
+  aux_poke = true,
+  in_pool = function(self)
+    return false
+  end,
 }
 
 
